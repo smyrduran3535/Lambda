@@ -1,0 +1,13 @@
+//-->Görev-1
+//1-)Konsolda 3'ten 10'a kadar tam sayılar nasıl yazdırılır
+//2-)3 ile 10 Arası Tam Sayıların Toplamı Nasıl Bulunur?
+//3-)9 faktöriyel nasıl bulunur
+//4-)6'dan 100'e kadar olan tek tam sayıların toplamı nasıl bulunur?
+//5-)İlk 5 çift sayının çarpımı nasıl bulunur
+
+//-->Görev-2
+//1-)Dosyadan metin nasıl okunur
+//2-)Dosyadaki tüm karakterlerin büyük harfe dönüştürülmesi
+//3-)Metinde belirli bir kelimenin (Lambda) olup olmadığı nasıl kontrol edilir
+//4-)Dosyadaki konsolda farklı kelimeler yazdırın
+//5-)"e" ile biten kelimeleri alın ve konsola yazdırın
